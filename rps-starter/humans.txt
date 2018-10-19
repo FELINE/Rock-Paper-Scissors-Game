@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    powderflask - design & programming 
+
+# THANKS
+
+    To all the students who have programmed Rock-Paper-Scissors with me over the past 15 years.
+
+# TECHNOLOGY COLOPHON
+
+    plain-old-html-css-js
+    github (with gratitude)
